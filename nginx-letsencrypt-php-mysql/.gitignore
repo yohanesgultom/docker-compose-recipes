@@ -1,0 +1,4 @@
+*.log
+mysql/*
+certbot/conf/*
+certbot/www/*
